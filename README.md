@@ -2,12 +2,6 @@
 
 1. Practice program on Titanic dataset.
 
-2. Assignments of Association Rules
-
-Dataset - "books.csv" & "my_movies.csv"
-
-Problem Statement
-
 Prepare rules for the all the data sets 
 
 1) Try different values of support and confidence. Observe the change in number of rules for different support,confidence values
